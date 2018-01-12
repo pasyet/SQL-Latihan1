@@ -1,0 +1,5 @@
+select first_name
+from
+	employees
+order by first_name asc;
+
